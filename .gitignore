@@ -42,6 +42,8 @@ GEMINI.md
 .agents/*
 .opencode/*
 /.omc/
+.cursor/
+node_modules/
 .idea/*
 .beads/*
 .bmad/*
